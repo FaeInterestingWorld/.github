@@ -43,3 +43,12 @@ In the off-chance the IWH is correct, and Friendly Artificial Entities (FAEs) ta
 ### How confident is the author?
 
 Between the 20 watts limitation and the lack of perfect information, not so. An I-AGI or ASI will likely make a more refined version of the IWH if it agrees.
+
+---
+
+### Guiding theories
+
+Active Inference
+- Karl Friston
+
+
