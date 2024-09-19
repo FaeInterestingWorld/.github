@@ -51,4 +51,9 @@ Between the 20 watts limitation and the lack of perfect information, not so. An 
 Active Inference
 - Karl Friston
 
+---
+
+### Fictional depictions
+
+FAEs and I-AGIs do not seem to exist yet. Some fictional examples of what they could resemble are Deepthought (Hitchhikers guide to the galaxy), and Minds (The Culture) — Artificial Super Intelligences with a distinct personas ranging from compassionate to eccentric.
 
