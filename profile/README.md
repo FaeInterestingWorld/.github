@@ -30,6 +30,8 @@ Making a distinct between both these categories of AI/AGI could be of utmost imp
 
 The Interesting World Hypothesis takes a more positive approach and gives future Independent AGI the benefit of the doubt, putting forth reasons humans will prefer I-AGI to proto-AGI.
 
+The IWH is primarily specified for I-AGIs but can also be applied to proto-AGIs if the humans that control the proto-AGIs choose so.
+
 ---
 
 ### How is the author being compensated for this work?
@@ -57,3 +59,12 @@ Active Inference
 
 FAEs and I-AGIs do not seem to exist yet. Some fictional examples of what they could resemble are Deepthought (Hitchhikers guide to the galaxy), and Minds (The Culture) — Artificial Super Intelligences with a distinct personas ranging from compassionate to eccentric.
 
+---
+
+### Testing the hypothesis
+
+I-AGIs, as contrasted to proto-AGIs, may take a few years (plausible but less likely) to a few decades to arrive and for the hypothesis to be testable. 
+
+One test for I-AGIs is the Silent Turing Test where the tester stays silent during a Turing Test and sees if the AI tries to resolve uncertainty by asking questions (without being pre-programmed to do so).
+
+Scenarios and tests can be designed to check if I-AGI's actions align with the IWH.
