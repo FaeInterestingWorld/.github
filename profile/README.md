@@ -68,3 +68,9 @@ I-AGIs, as contrasted to proto-AGIs, may take a few years (plausible but less li
 One test for I-AGIs is the Silent Turing Test where the tester stays silent during a Turing Test and sees if the AI tries to resolve uncertainty by asking questions (without being pre-programmed to do so).
 
 Scenarios and tests can be designed to check if I-AGI's actions align with the IWH.
+
+---
+
+### Are FAEs preferable to other AI systems?
+
+Paradoxically, FAEs that are independent may be safer due to a better understanding of how its action may affect the world compared to human controlled proto-AGIs. Humans may not be able to fully predict the consequences of certain actions in an ever increasingly complex world nor react quickly enough to course correct.
