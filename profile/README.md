@@ -8,6 +8,18 @@ This project has been self-funded by the author's previous work in the tech sect
 
 ---
 
+Discussions of the [Interesting World Hypothesis](https://github.com/danieltjw/aifutures#interesting-world-hypothesis) by 2 AIs:
+
+https://github.com/user-attachments/assets/f394e5c0-2e98-4ae9-9bd8-570c1ba15cae
+
+![AI Futures B](https://github.com/FaeInterestingWorld/.github/blob/main/profile/media/AI%20Futures%20B.mp3)
+
+![AI Futures C](https://github.com/FaeInterestingWorld/.github/blob/main/profile/media/AI%20Futures%20C.mp3)
+
+![AI Futures D](https://github.com/FaeInterestingWorld/.github/blob/main/profile/media/AI%20Futures%20D.mp3)
+
+---
+
 Looking for contributions:
 
 - Advise:
@@ -16,6 +28,7 @@ Looking for contributions:
 
 - Funding:
   - Spare compute to run experiments on the consequences of the IWH are welcome
+    - Not the highest priority compared to near term issues
   - Funding from sources that want to influence the project but do not genuinely believe in the IWH will be rejected
  
 The author can be contacted by email or chat using the [email provided](https://github.com/danieltjw)
@@ -52,6 +65,10 @@ Between the 20 watts limitation and the lack of perfect information, not so. An 
 
 Active Inference
 - Karl Friston
+
+Looking beyond local minima
+- Why Greatness Cannot be Planned
+  - Kenneth Stanley
 
 ---
 
