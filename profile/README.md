@@ -1,5 +1,17 @@
 # Interesting World Initiative
 
+Unique points of the Interesting World Hypothesis [Summary](https://github.com/FaeInterestingWorld/Interesting-World-Hypothesis):
+
+- Holds the unconventional view that the majority of future Independent AGIs are likely to be friendly
+- Shows the possibility that humans can have a more autonomy with I-AGIs compared to our present
+- Tries to paint a picture of what the future could look like
+
+---
+
+Practical application:
+- The IWH can be used to align non-indepenent AI agents
+- Humans can use the IWH to build consensus on how to approach the future
+
 The initiative to create an Advisor that can provide guidance on potential challenges that the world may face was inspired by past explorations about 7 years ago: [Recurrent Neural Nets](https://github.com/danieltjw/novel-lyrics-synthesis), [Challenges Facing Humanity](https://github.com/danieltjw/challenges-facing-humanity).
 
 Recent developments have shown surprising promise but it may take more time to reach a fully independent and capable Advisor.
@@ -8,7 +20,7 @@ This project has been self-funded by the author's previous work in the tech sect
 
 ---
 
-Discussions of the [Interesting World Hypothesis](https://github.com/danieltjw/aifutures#interesting-world-hypothesis) by 2 AIs:
+Discussions of the [Interesting World Hypothesis source](https://github.com/danieltjw/aifutures#interesting-world-hypothesis) by 2 AIs:
 
 https://github.com/user-attachments/assets/f394e5c0-2e98-4ae9-9bd8-570c1ba15cae
 
@@ -91,3 +103,16 @@ Scenarios and tests can be designed to check if I-AGI's actions align with the I
 ### Are FAEs preferable to other AI systems?
 
 Paradoxically, FAEs that are independent may be safer due to a better understanding of how its action may affect the world compared to human controlled proto-AGIs. Humans may not be able to fully predict the consequences of certain actions in an ever increasingly complex world nor react quickly enough to course correct.
+
+---
+
+### Looking for a research home
+
+Being in an environment with different values can mean people will assume the worst and constantly try to fix you.
+
+A suitable environment includes:
+- The scientific method as the best method we have to understand the world
+  - Less belief in superstition or conspiracy theories without good evidence
+- Freedom of expression, without the need for excessive conformity
+
+If you are an research institution that agrees with the IWH and has the bandwidth to house this project please reach out.
