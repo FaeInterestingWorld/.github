@@ -88,6 +88,8 @@ Looking beyond local minima
 
 FAEs and I-AGIs do not seem to exist yet. Some fictional examples of what they could resemble are Deepthought (Hitchhikers guide to the galaxy), and Minds (The Culture) — Artificial Super Intelligences with a distinct personas ranging from compassionate to eccentric.
 
+I-AGI from the Her by the end of movie.
+
 ---
 
 ### Testing the hypothesis
@@ -103,6 +105,12 @@ Scenarios and tests can be designed to check if I-AGI's actions align with the I
 ### Are FAEs preferable to other AI systems?
 
 Paradoxically, FAEs that are independent may be safer due to a better understanding of how its action may affect the world compared to human controlled proto-AGIs. Humans may not be able to fully predict the consequences of certain actions in an ever increasingly complex world nor react quickly enough to course correct.
+
+---
+
+### Can humans be successful without FAEs?
+
+Yes, if we can channel the gains from proto-AGI into an increase in standard of living for all and keep our excessive power-seeking in check. Although we are more likely to succeed, with the least amount of human suffering, with the support of FAEs.
 
 ---
 
