@@ -71,6 +71,10 @@ In the off-chance the IWH is correct, and Friendly Artificial Entities (FAEs) ta
 
 Between the 20 watts limitation and the lack of perfect information, not so. An I-AGI or ASI will likely make a more refined version of the IWH if it agrees.
 
+The author does not have insider knowledge and is basing these ideas based on reading the latest published research and the experience using open source versions of many of these AI systems.
+
+(There are still interesting research published every month and many features from the commercial products tend to appear in open source projects about 6 months beforehand.)
+
 ---
 
 ### Guiding theories
@@ -81,14 +85,6 @@ Active Inference
 Looking beyond local minima
 - Why Greatness Cannot be Planned
   - Kenneth Stanley
-
----
-
-### Fictional depictions
-
-FAEs and I-AGIs do not seem to exist yet. Some fictional examples of what they could resemble are Deepthought (Hitchhikers guide to the galaxy), and Minds (The Culture) — Artificial Super Intelligences with a distinct personas ranging from compassionate to eccentric.
-
-I-AGI from the Her by the end of movie.
 
 ---
 
@@ -114,6 +110,43 @@ Yes, if we can channel the gains from proto-AGI into an increase in standard of 
 
 ---
 
+### How is the future different from the present?
+
+The easing of these 3 major bottlenecks will have significant effects on the future:
+
+1. Energy
+  - The shift to abundant renewables and batteries
+2. Intelligence / Labour
+  - Powerful AIs and possibly proto-AGI with robotics by the end of 2030
+3. Imagination
+  - The above 2 will provide the capability to explore more possible futures
+
+Imagination may be the biggest understated bottleneck in the medium term and something this initiative wants to contribute to.
+
+---
+
+### Fictional depictions
+
+FAEs and I-AGIs do not seem to exist yet. Some fictional examples of what they could resemble are Deepthought (Hitchhikers guide to the galaxy), and Minds (The Culture) — Artificial Super Intelligences with a distinct personas ranging from compassionate to eccentric.
+
+Samantha from Her as an I-AGI by the end of movie.
+
+---
+
+### The case for considering science fiction
+
+In times of change, science fiction may provide a way to build consensus.
+
+For example, The Culture novels could provide a common ground to avoid potential conflicts between the two big powers.
+
+(The author is neither citizen of both these countries and is unsure if this sentiment is accurate.)
+
+It is possible that both powers may see themselves in different aspects of The Culture, the Minds acting as a powerful state like entity and the Culture ethos for individual autonomy.
+
+This seems like one of the biggest risk of suffering in the next few decades and is worth considering.
+
+---
+
 ### Looking for a research home
 
 Being in an environment with different values can mean people will assume the worst and constantly try to fix you.
@@ -124,3 +157,5 @@ A suitable environment includes:
 - Freedom of expression, without the need for excessive conformity
 
 If you are an research institution that agrees with the IWH and has the bandwidth to house this project please reach out.
+
+(The author is available by travel or remotely.)
