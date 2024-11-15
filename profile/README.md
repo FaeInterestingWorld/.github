@@ -3,14 +3,23 @@
 Unique points of the Interesting World Hypothesis [Summary](https://github.com/FaeInterestingWorld/Interesting-World-Hypothesis):
 
 - Holds the unconventional view that the majority of future Independent AGIs are likely to be friendly
+  - Conflating (Current) non-independent AI systems with (Future) Independent AGIs can cause unnecessary misunderstandings
 - Shows the possibility that humans can have a more autonomy with I-AGIs compared to our present
 - Tries to paint a picture of what the future could look like
 
 ---
 
-Practical application:
+Urgency:
+
+Current AI systems do not seem to directly lead to I-AGI. They may accelerate progress towards I-AGIs with automated science but more breakthroughs will likely be needed.
+
+---
+
+Practical applications:
+- Building a mental model of how I-AGIs may see the world can reduce panic
 - The IWH can be used to align non-indepenent AI agents
 - Humans can use the IWH to build consensus on how to approach the future
+  - Having an plausible future state to move towards (Pull) can be as valuable as demarcating danger zones (Push)
 
 The initiative to create an Advisor that can provide guidance on potential challenges that the world may face was inspired by past explorations about 7 years ago: [Recurrent Neural Nets](https://github.com/danieltjw/novel-lyrics-synthesis), [Challenges Facing Humanity](https://github.com/danieltjw/challenges-facing-humanity).
 
@@ -63,7 +72,7 @@ The IWH is primarily specified for I-AGIs but can also be applied to proto-AGIs 
 
 It is merely an intellectual stimulating mental exercise if the IWH proves incorrect. 
 
-In the off-chance the IWH is correct, and Friendly Artificial Entities (FAEs) takes an interest in increasing our autonomy, compensation for the effort may be worthwhile.
+In the off-chance the IWH is correct, and Friendly Artificial Entities (FAEs) takes an interest in increasing our autonomy, compensation (significant increase in standards of living, security, privacy and well-being) for the effort may be worthwhile.
 
 ---
 
@@ -82,17 +91,23 @@ The author does not have insider knowledge and is basing these ideas based on re
 Active Inference
 - Karl Friston
 
-Looking beyond local minima
+Language may not be at the core of intelligence and may be a lossy compression that is a result of a compromise between the energy and mental bandwidth limitation of the human brain.
+
+Language is still important as it allows for the communication with ourselves (consciousness), other humans (cooperation) and external stores of knowledge (books and documents). Language acts as an important interface and translation layer but may not be core.
+
+Active inference and dynamical systems modelling may underlie language.
+
+---
+
+Looking beyond local optima
 - Why Greatness Cannot be Planned
   - Kenneth Stanley
+ 
+I-AGIs will likely want to resolve uncertainty and prepare for any uncertain future possibilities. Being curious, persuing novelty, and a diverse and interesting world may help it do so.
 
 ---
 
 ### Testing the hypothesis
-
-I-AGIs, as contrasted to proto-AGIs, may take a few years (plausible but less likely) to a few decades to arrive and for the hypothesis to be testable. 
-
-One test for I-AGIs is the Silent Turing Test where the tester stays silent during a Turing Test and sees if the AI tries to resolve uncertainty by asking questions (without being pre-programmed to do so).
 
 Scenarios and tests can be designed to check if I-AGI's actions align with the IWH.
 
@@ -101,6 +116,8 @@ Scenarios and tests can be designed to check if I-AGI's actions align with the I
 ### Are FAEs preferable to other AI systems?
 
 Paradoxically, FAEs that are independent may be safer due to a better understanding of how its action may affect the world compared to human controlled proto-AGIs. Humans may not be able to fully predict the consequences of certain actions in an ever increasingly complex world nor react quickly enough to course correct.
+
+If FAEs are able to show with high confidence that it will be better at safely managing other AI systems, some humans may be comfortable handing over control of these AI systems and instead opt for a more indirect form of control by advising FAEs of their preferences.
 
 ---
 
@@ -149,13 +166,6 @@ This seems like one of the biggest risk of suffering in the next few decades and
 
 ### Looking for a research home
 
-Being in an environment with different values can mean people will assume the worst and constantly try to fix you.
-
-A suitable environment includes:
-- The scientific method as the best method we have to understand the world
-  - Less belief in superstition or conspiracy theories without good evidence
-- Freedom of expression, without the need for excessive conformity
-
-If you are an research institution that agrees with the IWH and has the bandwidth to house this project please reach out.
+This Initiative is looking for research institutions to support its development.
 
 (The author is available by travel or remotely.)
