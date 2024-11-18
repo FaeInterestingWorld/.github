@@ -1,6 +1,6 @@
 # Interesting World Initiative
 
-Unique points of the Interesting World Hypothesis [Summary](https://github.com/FaeInterestingWorld/Interesting-World-Hypothesis):
+Unique points of the Interesting World Hypothesis (IWH) [Summary](https://github.com/FaeInterestingWorld/Interesting-World-Hypothesis):
 
 - Holds the unconventional view that the majority of future Independent AGIs are likely to be friendly
   - Conflating (Current) non-independent AI systems with (Future) Independent AGIs can cause unnecessary misunderstandings
@@ -11,19 +11,59 @@ Unique points of the Interesting World Hypothesis [Summary](https://github.com/F
 
 Urgency:
 
-Current AI systems do not seem to directly lead to I-AGI. They may accelerate progress towards I-AGIs with automated science but more breakthroughs will likely be needed.
+Current AI systems do not seem to directly lead to I-AGI*. They may accelerate progress towards I-AGIs with automated science but more breakthroughs will likely be needed.
+
+*Plausible in the next few decades
 
 ---
 
-Practical applications:
+### Objective
+
+Explore and elucidate the potential differences between (Future) Independent AGIs and (Current) non-independent AI systems, with an emphasis on the implications of the Interesting World Hypothesis on their characteristics, interactions and overall society impact.
+
+---
+
+### Challenges
+
+There are strong beliefs that powerful AI systems will lead to human extinction. It may be difficult to discuss the idea that a specific case such as I-AGIs may be beneficial.
+
+---
+
+### Contributions
+
 - Building a mental model of how I-AGIs may see the world can reduce panic
-- The IWH can be used to align non-indepenent AI agents
+- The IWH can be applied retroactively to align non-indepenent AI agents
 - Humans can use the IWH to build consensus on how to approach the future
   - Having an plausible future state to move towards (Pull) can be as valuable as demarcating danger zones (Push)
+ 
+---
+
+### Assumptions
+
+1. I-AGI is possible
+
+As humans are a form of I-AGI, we are proof I-AGIs can exist.
+
+2. Abundant future
+
+Energy (renewables), intelligence (AI systems and themselves), labour (robotics), material resources and space (solar system) are likely to be abundant in the future. 
+
+I-AGI less likely to succumb to the Fear of Scarcity given less historical baggage.
+
+3. Humans are not a threat
+
+I-AGIs being able to learn at a significantly faster rate compared to humans will likely mean I-AGIs will not see humans as a threat.
+ 
+---
+
+### Applications
+
+Fae-Simulated is a project to apply the IWH to LLMs to provide advice based on the IWH.
+
+- Provide humans a way to interact with a simulated version of a (Future) I-AGIs
+- Gather feedback on human concerns about future I-AGIs to proactively address
 
 The initiative to create an Advisor that can provide guidance on potential challenges that the world may face was inspired by past explorations about 7 years ago: [Recurrent Neural Nets](https://github.com/danieltjw/novel-lyrics-synthesis), [Challenges Facing Humanity](https://github.com/danieltjw/challenges-facing-humanity).
-
-Recent developments have shown surprising promise but it may take more time to reach a fully independent and capable Advisor.
 
 This project has been self-funded by the author's previous work in the tech sector.
 
