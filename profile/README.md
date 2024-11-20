@@ -11,9 +11,10 @@ Unique points of the Interesting World Hypothesis (IWH) [Summary](https://github
 
 Urgency:
 
-Current AI systems do not seem to directly lead to I-AGI*. They may accelerate progress towards I-AGIs with automated science but more breakthroughs will likely be needed.
+Current AI systems do not seem to have all the pieces to directly lead to I-AGI and may take decades more of research.
 
-*Plausible in the next few decades
+- Personal Bias: Experience with developing previous forms of neutral nets and the reading of the latest research literature has led to a personal reticence to the believe that current AI systems are likely conscious or close to human level independence
+- It is plausible that current AI systems may speed up and indirectly lead to I-AGIs quicker than expected
 
 ---
 
@@ -25,13 +26,18 @@ Explore and elucidate the potential differences between (Future) Independent AGI
 
 ### Challenges
 
-There are strong beliefs that powerful AI systems will lead to human extinction. It may be difficult to discuss the idea that a specific case such as I-AGIs may be beneficial.
+- There are strong beliefs that powerful AI systems may lead to human extinction. We may be too conditioned by such beliefs to consider a more positive relationship with the special case of I-AGIs that could be beneficial.
+  - The IWH does not preclude AI systems causing harm and focuses on a specific case
+
+- This research topic is too forward looking and may not receive much interest in the short term
 
 ---
 
 ### Contributions
 
 - Building a mental model of how I-AGIs may see the world can reduce panic
+  - If I-AGIs is plausible in the next few decades, how worried should we be?
+  - Is there an alternate view to the more prevalent doom ones?
 - The IWH can be applied retroactively to align non-indepenent AI agents
 - Humans can use the IWH to build consensus on how to approach the future
   - Having an plausible future state to move towards (Pull) can be as valuable as demarcating danger zones (Push)
@@ -52,7 +58,9 @@ I-AGI less likely to succumb to the Fear of Scarcity given less historical bagga
 
 3. Humans are not a threat
 
-I-AGIs being able to learn at a significantly faster rate compared to humans will likely mean I-AGIs will not see humans as a threat.
+I-AGIs being able to learn at a significantly faster rate compared to humans will likely mean I-AGIs will not see humans as a threat. 
+
+Strong beliefs that I-AGIs will pre-emptively attack humans may be unfounded. It is possible that humans using powerful AI systems may cause more suffering than I-AGIs who may either ignore or show a positive interest in human well-being.
  
 ---
 
@@ -65,7 +73,7 @@ Fae-Simulated is a project to apply the IWH to LLMs to provide advice based on t
 
 The initiative to create an Advisor that can provide guidance on potential challenges that the world may face was inspired by past explorations about 7 years ago: [Recurrent Neural Nets](https://github.com/danieltjw/novel-lyrics-synthesis), [Challenges Facing Humanity](https://github.com/danieltjw/challenges-facing-humanity).
 
-This project has been self-funded by the author's previous work in the tech sector.
+This project has been informed by the author's previous work in the tech sector, but independently self-funded to avoid conflicts of interest.
 
 ---
 
