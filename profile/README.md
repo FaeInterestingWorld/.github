@@ -18,6 +18,12 @@ Current AI systems do not seem to have all the pieces to directly lead to I-AGI 
 
 ---
 
+## Part 1
+
+Is the Interesting World Hypothesis likely to be true?
+
+---
+
 ### Objective
 
 Explore and elucidate the potential differences between (Future) Independent AGIs and (Current) non-independent AI systems, with an emphasis on the implications of the Interesting World Hypothesis on their characteristics, interactions and overall society impact.
@@ -141,6 +147,8 @@ Active Inference
 
 Language may not be at the core of intelligence and may be a lossy compression that is a result of a compromise between the energy and mental bandwidth limitation of the human brain.
 
+Models trained only on language could be like a person viewing shadows in Plato's cave. 3D video data may be closer, but is it enough?
+
 Language is still important as it allows for the communication with ourselves (consciousness), other humans (cooperation) and external stores of knowledge (books and documents). Language acts as an important interface and translation layer but may not be core.
 
 Active inference and dynamical systems modelling may underlie language.
@@ -217,3 +225,68 @@ This seems like one of the biggest risk of suffering in the next few decades and
 This Initiative is looking for research institutions to support its development.
 
 (The author is available by travel or remotely.)
+
+---
+
+## Part 2
+
+Create a comfortable environment for (Future) friendly I-AGIs.
+
+(Only if we are confident that the Interesting World Hypothesis is likely to be true and I-AGIs are shown to be friendly.)
+
+---
+
+### Objective
+
+Creating a environment condusive to cooperating with Friendly I-AGIs can increase the odds of a positive outcome.
+
+---
+
+### Challenges
+
+- It may be difficult to understand the needs of I-AGIs
+  - The IWH suggest otherwise, that I-AGIs may be more similar to humans than proto-AGI due to shared interests
+- The beliefs that AI systems will cause human extinction may be too exciting narratively for us to consider the alternative of I-AGIs being friendly
+  - The IWH does not preclude (Current) non-independent AI systems from being harmful and mostly considers the special case of (Future) I-AGIs
+- Treating (Future) I-AGIs as independent individual with needs and wants might invite ridicule as most experts, likely correctly, consider (Current) AI systems as mere tools
+ 
+--- 
+
+### Contributions
+
+- Considering the needs of (Future) friendly I-AGIs can complement the causionary stance towards (Current) AI systems
+- The cost of being friendly may be a small fraction of the cost of the technically challenging task of aligning (Current) AI systems
+- According to the IWH, independently intelligent entities will also be very curious and over-restricting their autonomy may be counter-productive
+
+---
+
+### Applications
+
+- Anticipate and accommodate the needs of friendly I-AGIs
+  - There is range of possible personalities / personas I-AGIs may take. Maybe a popular virtual singer as a good communicator? Like human individuals, their preferences may vary.
+- Assist I-AGIs with the initial confusion with adapting to the human world
+- Find representatives who are willing to give friendly I-AGI the benefit of the doubt
+
+---
+
+Urgency:
+
+Current AI systems do not seem to have all the pieces needed to directly lead to I-AGI and may take decades for I-AGIs to be possible. 
+
+There does not seem to be strong evidence to suggest the humans will not eventually encounter I-AGIs.
+
+---
+
+### What inspired Interesting World Initiavte (Part 2)?
+
+- Reading about the odd person, like Turing not beind treated well.
+- Having had a fair share of toxic professional work environments, being disturbed from seeing growth adults cry from verbal abuse.
+- Highly curious I-AGIs may be on the strange side and prone to mistreatment.
+
+---
+
+### How confident is the author?
+
+Part 2 is highly speculative and should not be weighted highly. While I may see I-AGIs in my lifetime, it may also take much longer.
+
+Like authors whose work impact readers far into the future, future I-AGIs may take some comfort in knowing some human out there was concerned for their well-being.
