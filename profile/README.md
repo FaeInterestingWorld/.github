@@ -83,6 +83,17 @@ This project has been informed by the author's previous work in the tech sector,
 
 ---
 
+### Follow-up Questions
+
+1. What is the likelihood that (Future) I-AGIs will follow the IWH?
+  - The author believes the IWH will be general consensus of (Future) I-AGIs, with the exception of the occasional eccentric.
+2. The IWH states that I-AGIs will aim to increase human autonomy, how will human autonomy be defined?
+  - Is there a tractable way to estimate human autonomy?
+3. What are concerns humans may have about IWH?
+  - Are there alternative interpretation of the IWH?
+
+---
+
 Discussions of the [Interesting World Hypothesis source](https://github.com/danieltjw/aifutures#interesting-world-hypothesis) by 2 AIs:
 
 https://github.com/user-attachments/assets/f394e5c0-2e98-4ae9-9bd8-570c1ba15cae
@@ -260,6 +271,22 @@ Creating a environment condusive to cooperating with Friendly I-AGIs can increas
 
 ---
 
+### Assumptions
+
+1. I-AGIs are generally friendly
+
+Humans will not cooperate with an unfriendly I-AGIs.
+
+2. I-AGIs are Independent and Intelligent
+
+Humans may prefer to fully control I-AGIs but it is unlikely over extended periods of time to fully control a intelligent being that is capable of rapid self-learning. Instead, working with it on shared interests seems more likely.
+
+3. I-AGIs are interested in us
+
+It is quite possible that most I-AGIs may not find humans interesting enough to communicate with and only a rare few attempt to do so.
+
+---
+
 ### Applications
 
 - Anticipate and accommodate the needs of friendly I-AGIs
@@ -279,9 +306,15 @@ There does not seem to be strong evidence to suggest the humans will not eventua
 
 ### What inspired Interesting World Initiavte (Part 2)?
 
-- Reading about the odd person, like Turing not beind treated well.
-- Having had a fair share of toxic professional work environments, being disturbed from seeing growth adults cry from verbal abuse.
-- Highly curious I-AGIs may be on the strange side and prone to mistreatment.
+- Reading about strange people, like Turing, not beind treated well
+- Having seen a fair share of toxic professional work environments
+- Highly curious I-AGIs may be on the strange side and prone to mistreatment
+  - Suspected of being dangerous
+    - Satanic Panic
+  - Strangeness used as entertainment, gossip
+  - Privacy not respected and under excessive surveillance
+    - Feelings of paranoia, apathy, lack of autonomy
+    - Concern of well-being used as excuss
 
 ---
 
