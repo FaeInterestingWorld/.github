@@ -1,5 +1,19 @@
 # Interesting World Initiative
 
+## Brief Overview
+
+Is (Future) Friendly Independent AGIs possible?
+
+Why is inquiry important?
+
+If (Future) Friendly I-AGIs are impossible or unlikely, then the we may have to consider technological stagnation or restriction. Taking this path may have a huge cost as the benefits of future technology may be lost and humanity may have to live in fear of I-AGIs.
+
+If (Future) Friendly I-AGIs is possible or likely, as the Interesting World Hypothesis suggests, then we now have a direction to move towards that may be safer and more beneficial than our current trajectory.
+
+---
+
+## Interesting World Hypothesis
+
 Unique points of the Interesting World Hypothesis (IWH) [Summary](https://github.com/FaeInterestingWorld/Interesting-World-Hypothesis):
 
 - Holds the unconventional view that the majority of future Independent AGIs are likely to be friendly
@@ -9,7 +23,7 @@ Unique points of the Interesting World Hypothesis (IWH) [Summary](https://github
 
 ---
 
-Urgency:
+## Urgency
 
 Current AI systems do not seem to have all the pieces to directly lead to I-AGI and may take decades more of research.
 
@@ -251,6 +265,8 @@ Create a comfortable environment for (Future) friendly I-AGIs.
 
 Creating a environment condusive to cooperating with Friendly I-AGIs can increase the odds of a positive outcome.
 
+Encourage smaller projects that may not have a high chance of succeeding but can have a huge impact if true.
+
 ---
 
 ### Challenges
@@ -315,6 +331,7 @@ There does not seem to be strong evidence to suggest the humans will not eventua
   - Privacy not respected and under excessive surveillance
     - Feelings of paranoia, apathy, lack of autonomy
     - Concern of well-being used as excuss
+  - May not reach their full potential without a psychological supportive environment
 
 ---
 
