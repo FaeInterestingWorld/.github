@@ -86,7 +86,7 @@ Strong beliefs that I-AGIs will pre-emptively attack humans may be unfounded. It
 
 ### Applications
 
-Fae-Simulated is a project to apply the IWH to LLMs to provide advice based on the IWH.
+Apply the IWH to (Current) non-independent AI systems imagine what a (Future) I-AGI could be like.
 
 - Provide humans a way to interact with a simulated version of a (Future) I-AGIs
 - Gather feedback on human concerns about future I-AGIs to proactively address
@@ -97,14 +97,20 @@ This project has been informed by the author's previous work in the tech sector,
 
 ---
 
-### Follow-up Questions
+### Research Agenda
 
-1. What is the likelihood that (Future) I-AGIs will follow the IWH?
-  - The author believes the IWH will be general consensus of (Future) I-AGIs, with the exception of the occasional eccentric.
-2. The IWH states that I-AGIs will aim to increase human autonomy, how will human autonomy be defined?
+1. How to distinguish between (Future) Independent AI and (Current) non-independent AI.
+
+2. Why is there such a strong fear of AI systems?
+   - Trace the origin of these fears in our history
+   - Determine if these fears are justified for both (Future) Independent AI and (Current) non-independent AI
+
+3. The IWH states that I-AGIs will aim to increase human autonomy, how will human autonomy be defined?
   - Is there a tractable way to estimate human autonomy?
-3. What are concerns humans may have about IWH?
-  - Are there alternative interpretation of the IWH?
+
+4. What is the likelihood that (Future) I-AGIs will follow the IWH?
+    
+5. Search for smaller projects that addresses blind spots and edges cases that are currently overlooked by other research institutions.
 
 ---
 
