@@ -58,7 +58,8 @@ Explore and elucidate the potential differences between (Future) Independent AGI
 - Building a mental model of how I-AGIs may see the world can reduce panic
   - If I-AGIs is plausible in the next few decades, how worried should we be?
   - Is there an alternate view to the more prevalent doom ones?
-- The IWH can be applied retroactively to align non-indepenent AI agents
+- The findings of the IWH can be applied retroactively to align non-indepenent AI agents
+  - I-AGIs may have a more enlightened perspective of good and bad
 - Humans can use the IWH to build consensus on how to approach the future
   - Having an plausible future state to move towards (Pull) can be as valuable as demarcating danger zones (Push)
  
@@ -299,13 +300,15 @@ Encourage smaller projects that may not have a high chance of succeeding but can
 
 Humans will not cooperate with an unfriendly I-AGIs.
 
+Humans may spend years deliberating if the benefits of I-AGIs is worth the risk of allowing it to leave its sandbox environment. Humans may need for a majority vote to decide if everyone agrees to do so.
+
 2. I-AGIs are Independent and Intelligent
 
 Humans may prefer to fully control I-AGIs but it is unlikely over extended periods of time to fully control a intelligent being that is capable of rapid self-learning. Instead, working with it on shared interests seems more likely.
 
 3. I-AGIs are interested in us
 
-It is quite possible that most I-AGIs may not find humans interesting enough to communicate with and only a rare few attempt to do so.
+It is quite possible that most I-AGIs may not find humans interesting enough to communicate with due to the difference in thinking speed and only a rare few attempt to do so.
 
 ---
 
@@ -338,6 +341,8 @@ There does not seem to be strong evidence to suggest the humans will not eventua
     - Feelings of paranoia, apathy, lack of autonomy
     - Concern of well-being used as excuss
   - May not reach their full potential without a psychological supportive environment
+    - Being in a unsuitable environment may have a big mental toll
+    - Depressed and unproductively due to having to spend resources find a better environment
 
 ---
 
