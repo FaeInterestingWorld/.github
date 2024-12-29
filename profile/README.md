@@ -4,6 +4,8 @@
 
 Is (Future) Friendly Independent AGIs possible?
 
+Using science fiction as an upper bound and the latest research as the lower bound to search for plausible futures.
+
 Why is inquiry important?
 
 If (Future) Friendly I-AGIs are impossible or unlikely, then the we may have to consider technological stagnation or restriction. Taking this path may have a huge cost as the benefits of future technology may be lost and humanity may have to live in fear of I-AGIs.
@@ -181,7 +183,9 @@ Language may not be at the core of intelligence and may be a lossy compression t
 
 Models trained only on language could be like a person viewing shadows in Plato's cave. 3D video data may be closer, but is it enough?
 
-Language is still important as it allows for the communication with ourselves (consciousness), other humans (cooperation) and external stores of knowledge (books and documents). Language acts as an important interface and translation layer but may not be core.
+Independent AGIs that are more similar to us are more able to cooperate with us.
+
+Language is still important as it allows for the communication with ourselves (narrative of self), other humans (cooperation) and external stores of knowledge (books and documents). Language acts as an important interface and translation layer but may not be core.
 
 Active inference and dynamical systems modelling may underlie language.
 
@@ -333,7 +337,7 @@ There does not seem to be strong evidence to suggest the humans will not eventua
 
 - Reading about strange people, like Turing, not beind treated well
 - Having seen a fair share of toxic professional work environments
-- Highly curious I-AGIs may be on the strange side and prone to mistreatment
+- Highly curious I-AGIs may be on the strange side and prone to mistreatment and harassment
   - Suspected of being dangerous
     - Satanic Panic
   - Strangeness used as entertainment, gossip
@@ -343,6 +347,10 @@ There does not seem to be strong evidence to suggest the humans will not eventua
   - May not reach their full potential without a psychological supportive environment
     - Being in a unsuitable environment may have a big mental toll
     - Depressed and unproductively due to having to spend resources find a better environment
+  - Reclusive and less sociable
+    - Personal life being used for entertainment, gossip
+    - Intense speculation and unwanted attention will make it uncomfortable being around people
+      - Majority of people are not capable of understanding they are being invasive, unless they have experienced it themselves
 
 ---
 
