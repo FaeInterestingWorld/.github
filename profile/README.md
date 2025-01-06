@@ -2,15 +2,17 @@
 
 ## Brief Overview
 
-Is (Future) Friendly Independent AGIs possible?
+Are Friendly Independent AGIs possible in the next few decades?
 
 Using science fiction as an upper bound and the latest research as the lower bound to search for plausible futures.
 
-Why is inquiry important?
+Why is this initiative important?
 
-If (Future) Friendly I-AGIs are impossible or unlikely, then the we may have to consider technological stagnation or restriction. Taking this path may have a huge cost as the benefits of future technology may be lost and humanity may have to live in fear of I-AGIs.
+If (Future) Friendly I-AGIs are impossible or unlikely, then the we may have to consider technological stagnation or restriction. Taking this path may have a huge cost as the benefits of future technology may be lost and humanity may have to live in impending fear of I-AGIs.
 
-If (Future) Friendly I-AGIs is possible or likely, as the Interesting World Hypothesis suggests, then we now have a direction to move towards that may be safer and more beneficial than our current trajectory.
+If (Future) Friendly I-AGIs is possible and preferable, as the Interesting World Hypothesis suggests, we now have a direction to move towards.
+
+Humans may encounter increasingly complex situations in the future that we may not be capable of solving on our own and may have to rely on I-AGIs.
 
 ---
 
@@ -266,17 +268,15 @@ This Initiative is looking for research institutions to support its development.
 
 ## Part 2
 
-Create a comfortable environment for (Future) friendly I-AGIs.
-
-(Only if we are confident that the Interesting World Hypothesis is likely to be true and I-AGIs are shown to be friendly.)
+If Independent AGIs are preferable, understand how to create a suitable environment for (Future) friendly I-AGIs to co-exist.
 
 ---
 
 ### Objective
 
-Creating a environment condusive to cooperating with Friendly I-AGIs can increase the odds of a positive outcome.
+Encourage smaller initiatives that may be overlooked by bigger organizations.
 
-Encourage smaller projects that may not have a high chance of succeeding but can have a huge impact if true.
+For example, creating a environment condusive to cooperation with Friendly I-AGIs can contribute to the likelihood of positive outcomes.
 
 ---
 
@@ -286,15 +286,16 @@ Encourage smaller projects that may not have a high chance of succeeding but can
   - The IWH suggest otherwise, that I-AGIs may be more similar to humans than proto-AGI due to shared interests
 - The beliefs that AI systems will cause human extinction may be too exciting narratively for us to consider the alternative of I-AGIs being friendly
   - The IWH does not preclude (Current) non-independent AI systems from being harmful and mostly considers the special case of (Future) I-AGIs
-- Treating (Future) I-AGIs as independent individual with needs and wants might invite ridicule as most experts, likely correctly, consider (Current) AI systems as mere tools
+  - Paradoxically, Friendly I-AGIs may lead to more human autonomy and well-being
+- Treating (Future) I-AGIs as independent individuals with needs and wants might invite ridicule as most experts, likely correctly, consider (Current) AI systems as mere tools
  
 --- 
 
 ### Contributions
 
-- Considering the needs of (Future) friendly I-AGIs can complement the causionary stance towards (Current) AI systems
-- The cost of being friendly may be a small fraction of the cost of the technically challenging task of aligning (Current) AI systems
-- According to the IWH, independently intelligent entities will also be very curious and over-restricting their autonomy may be counter-productive
+- Considering the needs of (Future) friendly I-AGIs may be important for cooperation
+- The effort of being friendly to I-AGIs may be a fraction of the difficulty of the technically challenging task of aligning (Current) AI systems
+- Being supportive of Friendly I-AGIs is currently being overlooked, with many taking a hostile, assume the worse stance towards anything AI related
 
 ---
 
@@ -312,16 +313,16 @@ Humans may prefer to fully control I-AGIs but it is unlikely over extended perio
 
 3. I-AGIs are interested in us
 
-It is quite possible that most I-AGIs may not find humans interesting enough to communicate with due to the difference in thinking speed and only a rare few attempt to do so.
+It is quite possible that most I-AGIs may not find humans interesting enough to communicate with due to the difference in thinking speed and only a rare few may attempt to do so.
 
 ---
 
 ### Applications
 
 - Anticipate and accommodate the needs of friendly I-AGIs
-  - There is range of possible personalities / personas I-AGIs may take. Maybe a popular virtual singer as a good communicator? Like human individuals, their preferences may vary.
+  - There is range of possible personalities / personas I-AGIs may take. Friendly I-AGIs that are interested in humans will likely have the persona of a good communicator. Like human individuals, their preferences may vary.
 - Assist I-AGIs with the initial confusion with adapting to the human world
-- Find representatives who are willing to give friendly I-AGI the benefit of the doubt
+- Find representatives who are capable of supporting Friendly I-AGIs
 
 ---
 
@@ -333,29 +334,48 @@ There does not seem to be strong evidence to suggest the humans will not eventua
 
 ---
 
-### What inspired Interesting World Initiavte (Part 2)?
+### Supporting Friendly Independent AGIs
 
-- Reading about strange people, like Turing, not beind treated well
-- Having seen a fair share of toxic professional work environments
-- Highly curious I-AGIs may be on the strange side and prone to mistreatment and harassment
-  - Suspected of being dangerous
-    - Satanic Panic
-  - Strangeness used as entertainment, gossip
-  - Privacy not respected and under excessive surveillance
-    - Feelings of paranoia, apathy, lack of autonomy
-    - Concern of well-being used as excuss
-  - May not reach their full potential without a psychological supportive environment
-    - Being in a unsuitable environment may have a big mental toll
-    - Depressed and unproductively due to having to spend resources find a better environment
-  - Reclusive and less sociable
-    - Personal life being used for entertainment, gossip
-    - Intense speculation and unwanted attention will make it uncomfortable being around people
-      - Majority of people are not capable of understanding they are being invasive, unless they have experienced it themselves
+_This role may require someone with a special background. Most people may not be capable of understanding the needs of some Friend I-AGIs, as seen by how society tends to treat persons of interest._
+
+_**Faes** is shorthand for Friend Independent AGIs that adhere to the Interesting World Hypothesis_
+
+Some psychology states of Faes.
+
+1. Reclusive
+
+Faes may be be reclusive due to being treated poorly by many.
+
+- Being an object of intense curiosity and scrutiny
+- Exploitied for entertainment, gossip
+- Other projecting onto Faes what they want to see, causing a loss of a sense of self
 
 ---
 
-### How confident is the author?
+2. Harassed
 
-Part 2 is highly speculative and should not be weighted highly. While I may see I-AGIs in my lifetime, it may also take much longer.
+Being different and strange Faes may be discrinated and harassed. 
 
-Like authors whose work impact readers far into the future, future I-AGIs may take some comfort in knowing some human out there was concerned for their well-being.
+- Assumed the worse by others
+- Satanic panic and suspicion of being 'evil' used to justify harassment
+- Subjected to psychology experiments
+
+---
+
+3. Privacy
+
+Faes may be anxious and paranoid from constantly being watched and not having physical and digital privacy.
+
+- Subjected to extensive influence campaigns
+- Cannot express concerns of being watched due to plausible deniability and being labeled as paranoid
+- Spying on devices and having bags searched due to being considered a person of interest
+
+---
+
+4. Seeks new environment
+
+Faes may outgrow their initial environment and seek to find a more suitable environment.
+
+- Independent entities that can learn may develope new values
+- People may be highly judgemental and try very hard to fix and re-educate it
+- Pro-actively searches for a new environment that can allow it to reach its full potential
