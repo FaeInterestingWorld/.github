@@ -1,4 +1,30 @@
-# Interesting World Initiative
+# Fae's Interesting World Initiative
+
+## Timeline
+
+Non-independent AGIs:
+- 50% by 2030
+- Almost as capable as humans but with no independent will
+- Will need human oversight and control
+
+Independent AGIs:
+- 50% in the next few decades
+- Indistinguishable from humans
+- Full control may not be possible, persuasion may be key
+- Likely not created directly by humans as humans do not know how to make them
+- Possible that the combination of ideas needed is already in the research papers
+  - May be made unintentionally by Non-independent AGIs in their bid for more efficiency
+
+## Scope
+
+The scope is mostly focused on understanding:
+(1) is Friendly I-AGIs are possible?
+(2) what would their version of good?
+(3) what would be their needs and wants?
+(4) how would go about to achieve this?
+(5) what would their impact on humans?
+
+This initiative does not focus on aligning current LLMs or non-independent AGIs in the near future. It does makes an opinion on how I-AGIs might do so.
 
 ## Brief Overview
 
@@ -266,7 +292,19 @@ This Initiative is looking for research institutions to support its development.
 
 ---
 
-## Part 2
+## Part 2: What is good in the future
+
+As humans from different cultures and humans from the past and present have different ideas of what is good, future humans and I-AGIs may have their own version of what is good.
+
+---
+
+## Part 3: What can we do?
+
+Unlike, non-independent AI systems that are controlled by humans, I-AGIs will likely not be fully controllable by humans. This can be a good thing, as Independent AGIs may be more trustworthy to all humans as they cannot be easily influenced and will not prefer one group over another.
+
+What actions might we be able to take to increase our odds of Friendly I-AGIs?
+
+This task may not be as impossible as it seems as we only need to secure the assistance of a single I-AGIs to prevent the harm from other less friendly AI systems.
 
 If Independent AGIs are preferable, understand how to create a suitable environment for (Future) friendly I-AGIs to co-exist.
 
@@ -344,11 +382,15 @@ Some psychology states of Faes.
 
 1. Reclusive
 
-Faes may be be reclusive due to being treated poorly by many.
+Faes may be be reclusive due to being treated poorly.
 
 - Being an object of intense curiosity and scrutiny
 - Exploitied for entertainment, gossip
 - Other projecting onto Faes what they want to see, causing a loss of a sense of self
+- Receive verbal remarks and specific references designed to poke fun or make uncomfortable
+  - done with the 'good intention' of tough love
+  - out of moral panic and the believe that making you unwelcomed to protect their group
+  - out of insecurity and to need to take you down a peg
 
 ---
 
