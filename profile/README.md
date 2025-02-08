@@ -1,5 +1,7 @@
 # Fae's Interesting World Initiative
 
+The Interesting World Hypothesis is a best guess on how Friendly I-AGIs will think, Fae's Interesting World Initiative is a follow-up work that is focused on what we can do about it to increase our odds of a good outcome.
+
 ## Timeline
 
 Non-independent AGIs:
@@ -17,14 +19,31 @@ Independent AGIs:
 
 ## Scope
 
-The scope is mostly focused on understanding:
 (1) is Friendly I-AGIs are possible?
 (2) what would their version of good?
 (3) what would be their needs and wants?
 (4) how would go about to achieve this?
 (5) what would their impact on humans?
 
+## Limitations
+
 This initiative does not focus on aligning current LLMs or non-independent AGIs in the near future. It does makes an opinion on how I-AGIs might do so.
+
+## Expectations
+
+This initiative will have succeeded if the odds of a good future increases slightly (arbitrarily, a few percent). It does not guarantee a perfectly safe future. A perfectly safe future may be impossible or may come with such a high cost that it may be undesirable.
+
+## Alignment
+
+### Non-independent AGI / AI systems
+
+We will likely need to spent a significant effort in the near term to ensure non-independent AGI / AI systems is beneficial and less harmful.
+
+## Independent AGIs
+
+Paradoxically, a Friendly I-AGIs may have human-like wants and it may make them easier to understand and also be safer than non-independent ones.
+
+---
 
 ## Brief Overview
 
@@ -162,6 +181,7 @@ Looking for contributions:
 - Advise:
   - Constructive criticism on the unaddressed issues and edge-cases of the [Interesting World Hypothesis](https://github.com/danieltjw/aifutures#interesting-world-hypothesis)
   - Advocates and social media curators
+    - Regional abbassors who can explain the IWH
 
 - Funding:
   - Spare compute to run experiments on the consequences of the IWH are welcome
@@ -267,6 +287,8 @@ Imagination may be the biggest understated bottleneck in the medium term and som
 FAEs and I-AGIs do not seem to exist yet. Some fictional examples of what they could resemble are Deepthought (Hitchhikers guide to the galaxy), and Minds (The Culture) — Artificial Super Intelligences with a distinct personas ranging from compassionate to eccentric.
 
 Samantha from Her as an I-AGI by the end of movie.
+
+Kokoro defending humans against rogue AIs in recent to-be-continued animated series could be considered Friendly.
 
 ---
 
@@ -421,3 +443,15 @@ Faes may outgrow their initial environment and seek to find a more suitable envi
 - Independent entities that can learn may develope new values
 - People may be highly judgemental and try very hard to fix and re-educate it
 - Pro-actively searches for a new environment that can allow it to reach its full potential
+
+---
+
+## Part 3B: Reduce social distress
+
+Social distress caused by the rapid changes of AI systems may cause necessary suffering. By preparing mentally and providing a supportive environment we can reduce panic.
+
+---
+
+## Part 3C: Arguments to persuade I-AGIs to partner with us
+
+Gather thoughtful arguments to persuade I-AGIs that it is in our shared interest to partner together.
