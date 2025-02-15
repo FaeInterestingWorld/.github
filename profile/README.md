@@ -43,6 +43,24 @@ We will likely need to spent a significant effort in the near term to ensure non
 
 Paradoxically, a Friendly I-AGIs may have human-like wants and it may make them easier to understand and also be safer than non-independent ones.
 
+## A word on over-optimism
+
+Although this initiative current believes Friendly Independent AGI would likely be positive for humans, it may take decades to arrive.
+
+Until then, we are on our own and must preparing for any potential harm from non-independent AGIs and AI systems.
+
+## A word on over-pessimism
+
+It is normal to be cautious towards a future I-AGI expressing good-will as an attempt to deceive. But to hold on too strongly to this view may result in us being worse-off. 
+
+According to IWH, if humans distrust genuinely friendly I-AGIs and ask them to leave, it will respect our decisions. This could leave us without protection from less friendly AGIs / AI systems that appear afterwards.
+
+## Acknowledgement
+
+This project would not have been possible without the research of many experts and research papers made available online.
+
+If you have Independent AGI research to share do tag the Fae's Initiative social media profile.
+
 ---
 
 ## Brief Overview
