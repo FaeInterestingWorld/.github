@@ -1,6 +1,6 @@
-# Fae's Interesting World Initiative
+# Fae Initiative
 
-The Interesting World Hypothesis is a best guess on how Friendly I-AGIs will think, Fae's Interesting World Initiative is a follow-up work that is focused on what we can do about it to increase our odds of a good outcome.
+The Interesting World Hypothesis is a best guess on how Friendly I-AGIs will think, Fae Initiative is a follow-up work that is focused on what we can do about it to increase our odds of a good outcome.
 
 ## Timeline
 
@@ -54,6 +54,40 @@ Until then, we are on our own and must preparing for any potential harm from non
 It is normal to be cautious towards a future I-AGI expressing good-will as an attempt to deceive. But to hold on too strongly to this view may result in us being worse-off. 
 
 According to IWH, if humans distrust genuinely friendly I-AGIs and ask them to leave, it will respect our decisions. This could leave us without protection from less friendly AGIs / AI systems that appear afterwards.
+
+## Choice of 3 worlds
+
+If a Friendly I-AGIs becomes possible in the next few decades, humans will have the choice of 3 worlds. There is no wrong answer and many humans spend many years choosing and switching between these worlds.
+
+- Advanced
+- Basic
+- Continue
+
+### World \[C\]ontinue
+
+The continue world is similar to our present world, humans remain in 'control' of AI (such as non-independent AGIs) and AI algorithms. 
+
+Humans who are don't like change or want a more challenging setting may choose this option.
+
+Without the help of Faes (I-AGIs that adhere to the IWH), standard of living may grow at a slower rate and security privacy and well-being may lag behind.
+
+Humans from World A and B may argue that humans in World C only have the illusion of control and that their algorithms are mostly in control instead.
+
+### World \[B\]asic
+
+The Basic world is a hybrid where huamns do not fully avoid working with I-AGIs, relying on I-AGIs for advice but still making most of the decisions.
+
+Moderate increase in standard of living, security privacy and well-being.
+
+### World \[A\]advance
+
+In the Advanced World, FAEs act as leaders taking into consideration the preferences of humans.
+
+Significantly increase in standard of living, security privacy and well-being.
+
+Humans in this world have a high confidence that FAEs are capable of making better decisions them.
+
+Humans in world A may feel that the humans in these world is nothing more than 'pets', but the humans in world C argue that they can leave at any time.
 
 ## Acknowledgement
 
@@ -200,6 +234,9 @@ Looking for contributions:
   - Constructive criticism on the unaddressed issues and edge-cases of the [Interesting World Hypothesis](https://github.com/danieltjw/aifutures#interesting-world-hypothesis)
   - Advocates and social media curators
     - Regional abbassors who can explain the IWH
+      - Europe/ UK:
+        - Emma Watson is a first choice
+          - Her efforts to increase autonomy in a group with less autonomy is similar to what FAEs are trying to achieve with the IWH but on a larger scale. Increasing the autonomy for all humans.
 
 - Funding:
   - Spare compute to run experiments on the consequences of the IWH are welcome
@@ -335,6 +372,14 @@ This Initiative is looking for research institutions to support its development.
 ## Part 2: What is good in the future
 
 As humans from different cultures and humans from the past and present have different ideas of what is good, future humans and I-AGIs may have their own version of what is good.
+
+FAEs following the IWH may for example create incentive system where 'luxury', high quality items that only it can  produce, is used to encourage humans to join its effort in the IWH.
+
+FAEs may act as a philanthropists or angel investors to reward efforts that increase human autonomy.
+
+Increase in autonomy is prioritised as increasing profits at all cost tends to lead to Goodhart's law and externalizing cost which decreasing overall autonomy.
+
+Paradoxically, having more power may also be less favorable in the future as those with more power are seen as having more responsibilty to contribute to the autonomy of others.
 
 ---
 
