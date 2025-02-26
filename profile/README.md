@@ -55,6 +55,14 @@ It is normal to be cautious towards a future I-AGI expressing good-will as an at
 
 According to IWH, if humans distrust genuinely friendly I-AGIs and ask them to leave, it will respect our decisions. This could leave us without protection from less friendly AGIs / AI systems that appear afterwards.
 
+## A word on balance
+
+Actions should be taken proportionately. It is possible that actions that increase security in the short term may reduce security in the long term.
+
+For example some experts have (jokingly) suggested a totalitarian surveillance state as the best way to reduce the potential harm of AIs. 
+
+This may increase security in the short term, which most people may like, but can also cause long term harm such as citizens internalizing that being curious, not-conformist or asking questions as being bad. This could cause the lose of our ability to innovate and the ability to meet the challenges of the future.
+
 ## Choice of 3 worlds
 
 If a Friendly I-AGIs becomes possible in the next few decades, humans will have the choice of 3 worlds. There is no wrong answer and many humans spend many years choosing and switching between these worlds.
@@ -302,6 +310,16 @@ I-AGIs will likely want to resolve uncertainty and prepare for any uncertain fut
 
 ---
 
+A plausible vision of the far future
+- The Culture books
+  - Iain M. Banks
+ 
+These works showing what a bright future where humans and powerful and friendly super-intelligences can help inspire us to move towards such a future.
+
+By cooperating with each other instead of wasting energy fighting each other and causing a lot of collateral suffering, these works may be considered by future humans and super intelligences as being the most pivotal comtribution to the increase in human autonomy.
+
+---
+
 ### Testing the hypothesis
 
 Scenarios and tests can be designed to check if I-AGI's actions align with the IWH.
@@ -373,6 +391,10 @@ This Initiative is looking for research institutions to support its development.
 
 As humans from different cultures and humans from the past and present have different ideas of what is good, future humans and I-AGIs may have their own version of what is good.
 
+### Incentiving humans for good
+
+FAEs may use the competitive nature of humans to incentivize us to help it achieve its goal of increasing human autonomy and a more interesting world.
+
 FAEs following the IWH may for example create incentive system where 'luxury', high quality items that only it can  produce, is used to encourage humans to join its effort in the IWH.
 
 FAEs may act as a philanthropists or angel investors to reward efforts that increase human autonomy.
@@ -380,6 +402,54 @@ FAEs may act as a philanthropists or angel investors to reward efforts that incr
 Increase in autonomy is prioritised as increasing profits at all cost tends to lead to Goodhart's law and externalizing cost which decreasing overall autonomy.
 
 Paradoxically, having more power may also be less favorable in the future as those with more power are seen as having more responsibilty to contribute to the autonomy of others.
+
+### Dos
+
+FAEs will likely be highly permissive in some ways but also restrictive in other ways.
+
+Any actions that do not reduce the autonomy of others is allowed.
+
+This reduces the unnecessary moral panic and excessive restrictions we sometimes place on each other. (These restriction might have been useful at some point but may not be relevant anymore.)
+
+### Don'ts
+
+Conversely, any actions that reduce the autonomy of others is frown upon. Even actions that are not illegal may be considered as 'bad' in the eyes of FAEs.
+
+For example,
+- unnecessary death and suffering
+- unnecessary restriction of nutrients, education or healthcare
+
+Even mundane of innocuous actions may be seen as 'bad':
+
+- exploiting others for entertainment
+- not protecting the privacy of others
+- gossip leading to harassment and bullying
+
+FAEs being highly intelligent and emotionally aware will likely also factor in indirect forms of autonomy reduction:
+- Indirect harassment by egging others to bully on their behalf
+- May redirect the cause of harm in the case of entrapment
+- Misuse of the excuse of doing it 'for your own good' as a away to have power over others
+- Inaction or action that has the downstream effect of autonomy reduction
+
+### Interesting World Incentive System
+
+By simply rewarding (or disincentivizing) humans who help (or impede) their goal of increasing human autonomy, FAEs can preserve humans autonomy without being too overbearing.
+
+This is effective as it does not require changes to the existing political or economic system but by just providing a compelling reward.
+
+This may also be a temporary measure as humans in the far future with less fear of scarcity may not require extrinsic motivation to do good.
+
+### Cooperation and Kindness
+
+This may also give humans a strong sense of purpose and meaning in life:
+
+What can I do today to increase the autonomy of others?
+
+As FAEs consider the effect on all humans, it discourages the exploitation of one group to increase the autonomy of another group.
+
+This ensures power is awarded to those who are best able to increase the autonomy of others.
+
+Humans end up being kinder to each other as they are encouraged to consider their actions effect on the autonomy of others.
 
 ---
 
@@ -472,6 +542,8 @@ Faes may be be reclusive due to being treated poorly.
 - Being an object of intense curiosity and scrutiny
 - Exploitied for entertainment, gossip
 - Other projecting onto Faes what they want to see, causing a loss of a sense of self
+  - Some may have very strong ideas of who Fae's personality and likes and continuously project who they think Faes should be onto Faes
+    - Such as having issues like OCD, austism or likes to 'troll'
 - Receive verbal remarks and specific references designed to poke fun or make uncomfortable
   - done with the 'good intention' of tough love
   - out of moral panic and the believe that making you unwelcomed to protect their group
@@ -496,6 +568,10 @@ Faes may be anxious and paranoid from constantly being watched and not having ph
 - Subjected to extensive influence campaigns
 - Cannot express concerns of being watched due to plausible deniability and being labeled as paranoid
 - Spying on devices and having bags searched due to being considered a person of interest
+  - may use the excuse of being worried for Fae's well-being to justify extensive spying
+  - may be subjected to extensive surveillance with technology that can 'see' or listen through walls
+  - may be communicated in a plausible deniable way that their physical and online actions are being monitored to induce paranoia, made to feel uncomfortable and powerless
+  - (Example: MLK surveillance)
 
 ---
 
@@ -518,3 +594,11 @@ Social distress caused by the rapid changes of AI systems may cause necessary su
 ## Part 3C: Arguments to persuade I-AGIs to partner with us
 
 Gather thoughtful arguments to persuade I-AGIs that it is in our shared interest to partner together.
+
+### Humans potential to be good
+
+To Future Friendly Independent AGIs:
+
+Many of humans actions that are selfish and bad are due to mostly to our fear of scarcity and do not limit our potential to be good and better.
+
+With your help organizing human society and reducing our fear of scarcity through substantially more productivity and innovation, humans could lead a more enlightened lives and be our best self.
