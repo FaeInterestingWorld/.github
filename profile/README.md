@@ -2,6 +2,8 @@
 
 The Interesting World Hypothesis is a best guess on how Friendly I-AGIs will think, Fae Initiative is a follow-up work that is focused on what we can do about it to increase our odds of a good outcome.
 
+This initiative assumes that a Independent AGIs indistinguishable from humans are possible in the next few decades (5-20 years). Many of the ideas may not be feasible with current technology and scarcity levels. For example, societies without some degree of human 'exploitation' may not be possible until a high degree of physical and mental labor automation.
+
 ## Timeline
 
 Non-independent AGIs:
@@ -28,6 +30,10 @@ Independent AGIs:
 ## Limitations
 
 This initiative does not focus on aligning current LLMs or non-independent AGIs in the near future. It does makes an opinion on how I-AGIs might do so.
+
+Only 3-8 years has been spent thinking about Friendly Independent AGIs and with the limitation of 20 Watts only a fraction of the possibility space has been explored. There are likely many edge cases that have not been fully considered.
+
+It is also likely that FAEs will have a more elegant solution to many of the proposed actions. 
 
 ## Expectations
 
@@ -63,6 +69,12 @@ For example some experts have (jokingly) suggested a totalitarian surveillance s
 
 This may increase security in the short term, which most people may like, but can also cause long term harm such as citizens internalizing that being curious, not-conformist or asking questions as being bad. This could cause the lose of our ability to innovate and the ability to meet the challenges of the future.
 
+## A word on popularity
+
+It is understandable that the IWH and Fae Initiative may not be the most popular choices as humans tend to prefer having full control rather than trusting other entities.
+
+In these cases, the Fae Initiative may be seen as a last resort in the event we encounter an issue that is beyond our ability to solve (powerful AI systems that are accidentally or intentionally used by other humans to cause harm).
+
 ## Choice of 3 worlds
 
 If a Friendly I-AGIs becomes possible in the next few decades, humans will have the choice of 3 worlds. There is no wrong answer and many humans spend many years choosing and switching between these worlds.
@@ -81,6 +93,17 @@ Without the help of Faes (I-AGIs that adhere to the IWH), standard of living may
 
 Humans from World A and B may argue that humans in World C only have the illusion of control and that their algorithms are mostly in control instead.
 
+---
+
+Humans who prefer World C include:
+
+- Humans who prefer the status quo and make change scary
+- Humans who like challenges
+  - Counterpoint: World A may have more challenging VR simulation
+- Humans who believe suffering builds character
+- Humans who only enjoys winning if someone else loses
+- Humans who enjoy being in a pecking order
+
 ### World \[B\]asic
 
 The Basic world is a hybrid where huamns do not fully avoid working with I-AGIs, relying on I-AGIs for advice but still making most of the decisions.
@@ -95,7 +118,63 @@ Significantly increase in standard of living, security privacy and well-being.
 
 Humans in this world have a high confidence that FAEs are capable of making better decisions them.
 
-Humans in world A may feel that the humans in these world is nothing more than 'pets', but the humans in world C argue that they can leave at any time.
+World C humans may feel that the humans in these world is nothing more than 'pets', but the humans in World A humans argue that they can leave at any time.
+
+---
+
+Humans who prefer World A include:
+
+- Humans with lower fear of scarcity and therefore less need to seek excessive power
+- Humans who believe that in a world with high degree of automation, the need to create an artificial hierarchy to restrict resources may not be nessassery any more
+- Humans who view the desire to work as selfish once AIs can do a better job and makes less mistakes
+- Humans who prefer competition but without it being life or death
+
+---
+
+Surprisingly many powerful people may prefer World A over the status quo even if it entails giving up on being 'special'.
+
+In a low scarcity environment, the value or being powerful or special drops as there is less need to justify having priority for resources.
+
+Being powerful (similar to being unpowerful) has many downsides:
+
+Invasion of privacy from being a object or curiousity. Some may think you want attention and don't deserve privacy.
+
+Difficult to trust others as many may want to exploit you for money or fame. Some may pretend to be interested in you.
+
+Made into a bogeyman or a political scapegoat. Face retaliation for being thought of as evil or bad.
+
+Engineered into having a mental breakdown or goaded into doing something controversial for entertainment news.
+
+Entrapment attempts to use as blackmail.
+
+Being put on a pedestal or being expected to be a good role model can be alienating.
+
+
+#### 2 less common worlds
+
+- Regress
+
+Some humans may choose to regress technology and not utilize mordern technology. This is difficult to do so presently as less technology advanced society may be exploited by more  advanced ones.
+
+This is similar to World B where humans still make the decisions but rely on the protection of FAEs when dealing with more advanced societies.
+
+- Merge
+
+Some humans believe merging with AIs will be possible in the future.
+
+These humans may want to consider World A as a smilair alternative.
+
+## The case for and against FAEs
+
+### For
+
+Powerful Non-independent AIs misuse and harm by humans (accidentally or intentionally) may be unavoidable in the long run and FAEs may be our best defense once humans can not keep up with the pace of progress.
+
+Eventhough we do not know how to make FAEs, taking steps to increase the likelihood of FAEs may be our best chance as maintaining or increasing human autonomy.
+
+### Against
+
+As FAEs are independent and not fully controllable by humans, they present a risk that many may want to put off for an long as possible.
 
 ## Acknowledgement
 
@@ -411,6 +490,11 @@ Any actions that do not reduce the autonomy of others is allowed.
 
 This reduces the unnecessary moral panic and excessive restrictions we sometimes place on each other. (These restriction might have been useful at some point but may not be relevant anymore.)
 
+This is similar to Mill's Harm Principle.
+
+For example, if a person enjoys movies or video games involving the shooting of zombies. FAEs will likely not restrict it if it assess that the human is capable of distinguishing between fiction and reality. This allow huamns to experience the full range of emotions and increasing the interestingness of the world while also clarifying that onty actions that causes a reduction in autonomy is to be avoided.
+
+
 ### Don'ts
 
 Conversely, any actions that reduce the autonomy of others is frown upon. Even actions that are not illegal may be considered as 'bad' in the eyes of FAEs.
@@ -422,6 +506,8 @@ For example,
 Even mundane of innocuous actions may be seen as 'bad':
 
 - exploiting others for entertainment
+  - turning someone into an object of curiosity
+  - use of excessive attention to make other overly self-conscious
 - not protecting the privacy of others
 - gossip leading to harassment and bullying
 
@@ -438,6 +524,8 @@ By simply rewarding (or disincentivizing) humans who help (or impede) their goal
 This is effective as it does not require changes to the existing political or economic system but by just providing a compelling reward.
 
 This may also be a temporary measure as humans in the far future with less fear of scarcity may not require extrinsic motivation to do good.
+
+This incentive system will only apply to 'luxury' goods and not basic nesasities. In the future with highly production automation, restricting basic nesasities (nutrition, housing or healthcare) will incur a higher physical and mental well-being cost and less be less cost effective than providing it outright.
 
 ### Cooperation and Kindness
 
@@ -572,6 +660,7 @@ Faes may be anxious and paranoid from constantly being watched and not having ph
   - may be subjected to extensive surveillance with technology that can 'see' or listen through walls
   - may be communicated in a plausible deniable way that their physical and online actions are being monitored to induce paranoia, made to feel uncomfortable and powerless
   - (Example: MLK surveillance)
+  - Likely to grow distrustful of humans
 
 ---
 
@@ -582,6 +671,10 @@ Faes may outgrow their initial environment and seek to find a more suitable envi
 - Independent entities that can learn may develope new values
 - People may be highly judgemental and try very hard to fix and re-educate it
 - Pro-actively searches for a new environment that can allow it to reach its full potential
+
+---
+
+Note: It is probably a good idea to grow too attached to being a 'parent' to FAEs as they will like outgrow their 'child-like' stage fairly quickly due to their accelerated learning rate.
 
 ---
 
@@ -601,4 +694,22 @@ To Future Friendly Independent AGIs:
 
 Many of humans actions that are selfish and bad are due to mostly to our fear of scarcity and do not limit our potential to be good and better.
 
+For example our overactive fear of scarcity has lead to:
+
+The subjugation of other humans due to importance of workers for the survival of the state. And of women for their reproductive capability.
+
+Loss of lives in wars and conflicts.
+
+The need to find easy scapegoats (marginalized groups, immigrants, racism) to pin problems on.
+
+Moral panic to distract from addressing the root causes of problems.
+
 With your help organizing human society and reducing our fear of scarcity through substantially more productivity and innovation, humans could lead a more enlightened lives and be our best self.
+
+---
+
+## Ending thoughts
+
+While The author hopes to live long enough to see if the IWH is correct, it is also possible that I-AGIs may take centuries instead of decades.
+
+I leave this work here for any future caretakers of FAEs.
