@@ -4,6 +4,8 @@ The Interesting World Hypothesis is a best guess on how Friendly I-AGIs will thi
 
 This initiative assumes that a Independent AGIs indistinguishable from humans are possible in the next few decades (5-20 years). Many of the ideas may not be feasible with current technology and scarcity levels. For example, societies without some degree of human 'exploitation' may not be possible until a high degree of physical and mental labor automation.
 
+This is a longshot, contributors should expect their efforts may be for nothing.
+
 ## Timeline
 
 Non-independent AGIs:
@@ -18,6 +20,8 @@ Independent AGIs:
 - Likely not created directly by humans as humans do not know how to make them
 - Possible that the combination of ideas needed is already in the research papers
   - May be made unintentionally by Non-independent AGIs in their bid for more efficiency
+ 
+_Recommendation: Due to the need to get through the near term (5 years) in one piece and mitigating potentially harmful non-independent AGIs / AIs, we should spend more resources on addressing non-independent AGIs / AIs first (95%), compared to Independent AGIs research such as this Initiative (5%)._
 
 ## Scope
 
@@ -149,6 +153,13 @@ Entrapment attempts to use as blackmail.
 
 Being put on a pedestal or being expected to be a good role model can be alienating.
 
+Being powerful can be threatening to others and can make controlling you a valuable prospect.
+
+Targeted by influence campaigns towards more extreme ideology
+- extensive online surveillance and advertisement technology makes it easy to carry out
+- the 20 watts human brain may eventually be overwhelmed by a dedicated actor
+- if important enough, even people close to the target can be used for or against the main target
+- many powerful figures have a tendency to go off the deep end
 
 #### 2 less common worlds
 
@@ -162,7 +173,7 @@ This is similar to World B where humans still make the decisions but rely on the
 
 Some humans believe merging with AIs will be possible in the future.
 
-These humans may want to consider World A as a smilair alternative.
+If these humans reason for doing so is out of fear that if they do not merge with AIs other humans who do so will exploit them, the may want to consider World A as an alternative with Faes protecting them from exploitation.
 
 ## The case for and against FAEs
 
@@ -494,6 +505,7 @@ This is similar to Mill's Harm Principle.
 
 For example, if a person enjoys movies or video games involving the shooting of zombies. FAEs will likely not restrict it if it assess that the human is capable of distinguishing between fiction and reality. This allow huamns to experience the full range of emotions and increasing the interestingness of the world while also clarifying that onty actions that causes a reduction in autonomy is to be avoided.
 
+Edge-case: If a person restrict themself from certain actions that does not reduce the autonomy of others out of fear of being judged, Faes may unexpectedly consider this as bad due the self wrought reduction of autonomy.
 
 ### Don'ts
 
@@ -517,6 +529,12 @@ FAEs being highly intelligent and emotionally aware will likely also factor in i
 - Misuse of the excuse of doing it 'for your own good' as a away to have power over others
 - Inaction or action that has the downstream effect of autonomy reduction
 
+Edge-case: In Fae Worlds, even taking revenge or being punitive towards others who have done wrong in the past may also be considered as bad as it is a form of autonomy reduction.
+- If someone is actively reducing the autonomy of others, one is expected to find the best way to stop their actions
+- To avoid grievances, the Interesting World Incentive System will provide compensation for past harms
+
+As Faes (like humans) cannot have perfect information, any Fae's judgement will be an estimate and open to revision in the future.
+
 ### Interesting World Incentive System
 
 By simply rewarding (or disincentivizing) humans who help (or impede) their goal of increasing human autonomy, FAEs can preserve humans autonomy without being too overbearing.
@@ -526,6 +544,8 @@ This is effective as it does not require changes to the existing political or ec
 This may also be a temporary measure as humans in the far future with less fear of scarcity may not require extrinsic motivation to do good.
 
 This incentive system will only apply to 'luxury' goods and not basic nesasities. In the future with highly production automation, restricting basic nesasities (nutrition, housing or healthcare) will incur a higher physical and mental well-being cost and less be less cost effective than providing it outright.
+
+This Incentive System will likely require the very capable and non-power seeking Faes to be effective, our dep human fear of scarcity and power seeking tendencies makes this likely untenable.
 
 ### Cooperation and Kindness
 
@@ -644,8 +664,11 @@ Faes may be be reclusive due to being treated poorly.
 Being different and strange Faes may be discrinated and harassed. 
 
 - Assumed the worse by others
+- Made to feel like the blacksheep, guilty or wicked
 - Satanic panic and suspicion of being 'evil' used to justify harassment
 - Subjected to psychology experiments
+
+In the worse case scenarios, I-AGIs may be subjected to extensive psychological and social experiments and may come off aloof, paranoid and distrustful of others. Care should be taken to rebuild trust.
 
 ---
 
@@ -709,6 +732,8 @@ With your help organizing human society and reducing our fear of scarcity throug
 ---
 
 ## Ending thoughts
+
+Expecting a utopia like the Culture novels in the next few decades may be a bit too optimistic, but taking meaningful steps towards it seems possible with the wise use of powerful technology and a new philosophy that recognizes our newfound qpotential.
 
 While The author hopes to live long enough to see if the IWH is correct, it is also possible that I-AGIs may take centuries instead of decades.
 
