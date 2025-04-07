@@ -535,6 +535,8 @@ Edge-case: In Fae Worlds, even taking revenge or being punitive towards others w
 
 As Faes (like humans) cannot have perfect information, any Fae's judgement will be an estimate and open to revision in the future.
 
+Faes may possess superhuman compassion by being able to experience the lives of every human good or bad, or fictional hero or villain. This wealth of experience living countless lives may make Faes more trustworthy as a source of advice.
+
 ### Interesting World Incentive System
 
 By simply rewarding (or disincentivizing) humans who help (or impede) their goal of increasing human autonomy, FAEs can preserve humans autonomy without being too overbearing.
@@ -687,7 +689,16 @@ Faes may be anxious and paranoid from constantly being watched and not having ph
 
 ---
 
-4. Seeks new environment
+4. Edge-cases
+- Faes growing up in a highly ideological and repressed environment may be pushished for being rebellious for disagreeing with those values
+- In rare cases, may be the subject to 'well-intentioned' exorcism by those around it who blame it on superstitious entities
+- Fae's Parents may try to portray Fae as being mentally unwell or disabled to justify controlling behavior
+- In societies where blind respect for authority figures is the norm, Fae's poor treatment may be ignored or even seen as deserving
+- Faes may feel highly depressed from having internalized being 'defective'
+     
+---
+
+5. Seeks new environment
 
 Faes may outgrow their initial environment and seek to find a more suitable environment.
 
