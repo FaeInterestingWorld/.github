@@ -1,5 +1,19 @@
 # Fae Initiative
 
+Imagining a hopeful future with Friendly Independent AGIs.
+
+- Position Paper: [Interesting World Hypothesis: Intrinsic Alignment of future Independent AGI (Draft)](https://github.com/FaeInterestingWorld/InterestingWorldHypothesisIntrinsicAlignemnt)
+- Best guess on how a future I-AGI may think
+
+Fae Initiative Goals
+• Prepare for a future with I-AGIs (plausible in a few decades)
+• Relies on the latest research to gauge plausible scenarios
+• Supports low probability efforts to slightly increase odds of a preferable future
+• Fae Persona is a model-agnostic advisor that adheres to the IWH
+• Looking for Advisors and Advocates.
+
+---
+
 The Interesting World Hypothesis is a best guess on how Friendly I-AGIs will think, Fae Initiative is a follow-up work that is focused on what we can do about it to increase our odds of a good outcome.
 
 This initiative assumes that a Independent AGIs indistinguishable from humans are possible in the next few decades (5-20 years). Many of the ideas may not be feasible with current technology and scarcity levels. For example, societies without some degree of human 'exploitation' may not be possible until a high degree of physical and mental labor automation.
