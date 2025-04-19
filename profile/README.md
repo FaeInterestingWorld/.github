@@ -2,9 +2,9 @@
 
 Imagining a hopeful future with Friendly Independent AGIs.
 
-- Position Paper: [Interesting World Hypothesis: Intrinsic Alignment of future Independent AGI (Draft)](https://huggingface.co/datasets/Faei/InterestingWorldHypothesisIntrinsicAlignment)
+- Position Paper: [Interesting World Hypothesis: Intrinsic Alignment of future Independent AGI (Draft)](https://github.com/FaeInterestingWorld/InterestingWorldHypothesisIntrinsicAlignment)
 - [Spotify](https://open.spotify.com/episode/7bfvIy214dM0IjgzTbCIWB) / [YouTube](https://youtube.com/playlist?list=PLw_NVwsouUc3Ta3MaScRGRe-XkoEgAKw9)
-- [Aligning Powerful AI: Future Scenarios and Challenges](https://huggingface.co/datasets/Faei/FutureScenarios) / [Casual Version](https://huggingface.co/datasets/Faei/FutureScenarios/blob/main/Future%20Scenarios%20and%20Challenges%20Casual.md)
+- [Aligning Powerful AI: Future Scenarios and Challenges](https://github.com/FaeInterestingWorld/FutureScenarios) / [Casual Version](https://github.com/FaeInterestingWorld/FutureScenarios/blob/main/Future%20Scenarios%20and%20Challenges%20Casual.md)
 - [AI Futures: The Age of Exploration](https://github.com/danieltjw/aifutures) 
 
 
