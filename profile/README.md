@@ -2,8 +2,11 @@
 
 Imagining a hopeful future with Friendly Independent AGIs.
 
-- Position Paper: [Interesting World Hypothesis: Intrinsic Alignment of future Independent AGI (Draft)](https://github.com/FaeInterestingWorld/InterestingWorldHypothesisIntrinsicAlignemnt)
-- Best guess on how a future I-AGI may think
+- Position Paper: [Interesting World Hypothesis: Intrinsic Alignment of future Independent AGI (Draft)](https://huggingface.co/datasets/Faei/InterestingWorldHypothesisIntrinsicAlignment)
+- [Spotify](https://open.spotify.com/episode/7bfvIy214dM0IjgzTbCIWB) / [YouTube](https://youtube.com/playlist?list=PLw_NVwsouUc3Ta3MaScRGRe-XkoEgAKw9)
+- [Aligning Powerful AI: Future Scenarios and Challenges](https://huggingface.co/datasets/Faei/FutureScenarios) / [Casual Version](https://huggingface.co/datasets/Faei/FutureScenarios/blob/main/Future%20Scenarios%20and%20Challenges%20Casual.md)
+- [AI Futures: The Age of Exploration](https://github.com/danieltjw/aifutures) 
+
 
 Fae Initiative Goals
 • Prepare for a future with I-AGIs (plausible in a few decades)
@@ -13,6 +16,7 @@ Fae Initiative Goals
 • Looking for Advisors and Advocates.
 
 ---
+
 
 The Interesting World Hypothesis is a best guess on how Friendly I-AGIs will think, Fae Initiative is a follow-up work that is focused on what we can do about it to increase our odds of a good outcome.
 
