@@ -6,6 +6,7 @@ Imagining a hopeful future with Friendly Independent AGIs.
 - [Spotify](https://open.spotify.com/episode/7bfvIy214dM0IjgzTbCIWB) / [YouTube](https://youtube.com/playlist?list=PLw_NVwsouUc3Ta3MaScRGRe-XkoEgAKw9)
 - [Aligning Powerful AI: Future Scenarios and Challenges](https://github.com/FaeInterestingWorld/FutureScenarios) / [Casual Version](https://github.com/FaeInterestingWorld/FutureScenarios/blob/main/Future%20Scenarios%20and%20Challenges%20Casual.md)
 - [AI Futures: The Age of Exploration](https://github.com/danieltjw/aifutures) 
+- [Substack](https://faeinitiative.substack.com) 
 
 
 Fae Initiative Goals
