@@ -46,18 +46,18 @@ We will cover these topics in this newsletter and podcasts:
     *   The [possibility of Friendly I-AGI](https://faeinitiative.substack.com/p/interesting-world-hypothesis) (7 mins)
     *   A way of aligning human with human and human with I-AGI
 
-[Interesting World Hypothesis Voiceover](./media/interesting_voiceover.mp4)
+[Interesting World Hypothesis Voiceover](https://huggingface.co/datasets/Faei/FaeInitiative/blob/main/media/interesting_voiceover.mp4)
 
 *   **Possibility Space Ethics**
     *   An [ethical common ground](https://faeinitiative.substack.com/p/possibility-space-ethics) (15 mins) between Humans and AGI
     *   [Ethics Estimate (Preview)](https://faeinitiative.com) is a prototype service to check if an action is ‘good’ according to the Possiblity Space Ethics.
 
-[Possibility Space Ethics Voiceover](./media/possibility_voiceover.mp4)
+[Possibility Space Ethics Voiceover](https://huggingface.co/datasets/Faei/FaeInitiative/blob/main/media/possibility_voiceover.mp4)
 
 *   **Economics of Novelty**
     *   A [speculative economics of 2050](https://faeinitiative.substack.com/p/economics-of-novelty) (5 mins)
 
-[Economics of Novelty Voiceover](./media/economics_voiceover.mp4)
+[Economics of Novelty Voiceover](https://huggingface.co/datasets/Faei/FaeInitiative/blob/main/media/economics_voiceover.mp4)
 
 *   **Fear of Scarcity**
     *   How I-AGI and future humanity differ from the current
